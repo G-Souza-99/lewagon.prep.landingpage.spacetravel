@@ -1,0 +1,75 @@
+/*font and colors */
+body {
+	background: #D1DEDE;
+	color:  #1D201F;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 50px;
+	/*color: #11151C ;*/
+	color: #D66853;
+}
+
+h2 { 
+	font-size: 23px;
+	color:  #477998;
+	font-family: 'Montserrat', sans-serif;
+}
+
+a{
+	text-decoration: none;
+	color: #212D40;
+}
+a:hover{
+	text-decoration: none;
+	color:#364156 ;
+}
+
+/*custom design */
+#banner{
+	background-image:  url(https://trancentral.tv/wp-content/uploads/2018/10/1168964-planets-wallpapers-hd-1920x1080-for-xiaomi.jpg);
+	background-size: cover;
+	padding: 150px 0;
+	text-align: center;
+	color: white;
+}
+
+#banner h1{
+	color: #FE4A49;
+	color: #E55B24;
+	font-weight: 700px;
+
+}
+
+#banner p {
+	color: white;
+	font-size: 30px;
+	font-weight: lighter;
+	flex-grow: red;
+
+
+}
+
+.card {
+	padding: 50px;
+	text-align: center;
+}
+
+#footer{
+	background: black;
+	color: white;
+	font-size: 16px;
+	padding: 20px;
+}
+
+#footer a{
+	font-size: 14px;S
+	color: grey;
+
+}
+
+#footer a:hover{
+	color: white;
+}
